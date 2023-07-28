@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "634047536649",
+    "project_id": "bcskills-c8e3e",
+    "storage_bucket": "bcskills-c8e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634047536649:android:d9ee986f73636048c6e2d8",
+        "android_client_info": {
+          "package_name": "com.example.bc_skill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634047536649-723jvbtrtltq64kbl95cbes4u3p3vifn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhlMSNgveUITiqk77CQ9X6n2SnXW-cpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634047536649-723jvbtrtltq64kbl95cbes4u3p3vifn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634047536649-hu0590vehi28d2dh15ibmi4dtm95emdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bcSkill"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634047536649:android:c72edf3c84a2e281c6e2d8",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634047536649-723jvbtrtltq64kbl95cbes4u3p3vifn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhlMSNgveUITiqk77CQ9X6n2SnXW-cpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634047536649-723jvbtrtltq64kbl95cbes4u3p3vifn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634047536649-hu0590vehi28d2dh15ibmi4dtm95emdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bcSkill"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
